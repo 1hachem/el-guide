@@ -16,7 +16,7 @@ the following are resources to learn data science and AI engineering with good p
 |-----|---------|
 |basics|[StatQuest playlist](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)|
 |interactive distribution|[seeing-theory](https://seeing-theory.brown.edu/probability-distributions/index.html)|
-|
+
 
 ### Algebra
 |title|resources|
