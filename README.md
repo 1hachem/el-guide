@@ -26,7 +26,7 @@ the following are resources to learn data science and AI engineering with good p
 ## OS
 |title|resources|
 |-----|---------|
-|motivation|coming soon : [blog : why you should switch to linux as a baby AI engineer]()|
+|motivation|coming soon : [I should'v switched to linux once I was born]()|
  
 ## Python 
 |title|resources|
