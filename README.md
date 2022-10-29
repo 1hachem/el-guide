@@ -9,7 +9,7 @@ the following are resources to learn data science and AI engineering with good p
 ### Calculus
 |title|resources|
 |-----|---------|
-|intuition|[3blue1brown playlist](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)|https://seeing-theory.brown.edu/probability-distributions/index.html
+|intuition|[3blue1brown playlist](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)|
 
 ### Statistics & Probability
 |title|resources|
